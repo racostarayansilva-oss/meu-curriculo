@@ -8,10 +8,11 @@ body{
 h1, h2 {
   text-align: center;
 }
-img{
+img {
   display: block;
-  margim-left: auto;
-  margim-right: auto;
-  width: 50%;
+  margin: 0 auto;
+  max-width: 200px;
+  border-radius: 50%;
 }
+
 
