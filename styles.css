@@ -10,7 +10,8 @@ h1, h2 {
 }
 img{
   display: block;
-  width: 300px;
   margim-left: auto;
   margim-right: auto;
+  width: 50%;
 }
+
