@@ -1,0 +1,15 @@
+body{
+  padding: 25px;
+}
+.title {
+  text-align: center;
+	color: #4c64ff;
+}
+h1, h2 {
+  text-align: center;
+}
+img{
+  display: block;
+  width: 300px;
+  margim-left: auto;
+}
